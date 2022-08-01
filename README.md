@@ -1,5 +1,5 @@
 # nft-html
-Code to show off your NFT's using only HTML
+Show off your NFT's using only HTML!
 
 ## Sample Code
 
